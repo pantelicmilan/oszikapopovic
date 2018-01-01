@@ -562,7 +562,7 @@ input::-ms-input-placeholder {
 .home .main_home .video_play_icon a{
     width:175px;
     height:125px;
-    background: #d68851; /* #032F3E */
+    background: #c69b25; /* #032F3E */
     display: inline-block;
     text-align: center;
     line-height: 140px;
@@ -616,7 +616,7 @@ input::-ms-input-placeholder {
 }
 .head_title h2{
     font-size:3.125rem;
-    color:#223d61;
+    color:#d6a62c; /*#223d61   */
 }
 .head_title p{
     font-size:1rem;
